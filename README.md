@@ -36,7 +36,9 @@
 
 ###
 
-<img src="https://github.com/Is44cNascimento/Is44cNascimento/blob/main/snake.yml" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Is44cNascimento/Is44cNascimento/output/snake.svg" alt="Snake animation" />
 
 ###
 
